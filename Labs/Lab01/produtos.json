@@ -1,0 +1,44 @@
+[
+    {
+        "nome": "Cosméticos",
+        "descricao": "Cosméticos mais usados ",
+        "preco": 0.19000000000000003,
+        "imagem_url": "https://stgdevdio001.blob.core.windows.net/fotos/700d7e45-d33f-42e7-b52b-ebe56e473bb5.jpg"
+    },
+    {
+        "nome": "Cosméticos",
+        "descricao": "Cosméticos mais usados ",
+        "preco": 0.19000000000000003,
+        "imagem_url": "https://stgdevdio001.blob.core.windows.net/fotos/c5a427d7-6c36-4fbc-bbdc-7a738f28ac16.jpg"
+    },
+    {
+        "nome": "Cosmético",
+        "descricao": "Novo cosmético cadastrado",
+        "preco": 0.10999999999999999,
+        "imagem_url": "https://stgdevdio001.blob.core.windows.net/fotos/e8fec1af-92a1-4f78-b8a3-e3ee089d744f.jpg"
+    },
+    {
+        "nome": "Cosmético",
+        "descricao": "Novo cosmético cadastrado",
+        "preco": 0.01,
+        "imagem_url": "https://stgdevdio001.blob.core.windows.net/fotos/f27795d2-643a-44e9-a00e-eead06e506ec.jpg"
+    },
+    {
+        "nome": "Perfume",
+        "descricao": "Perfume maravilhoso",
+        "preco": 10.1,
+        "imagem_url": "https://stgdevdio001.blob.core.windows.net/fotos/ad7a533b-cc19-4f59-b684-22ba4ad36605.jpg"
+    },
+    {
+        "nome": "Produtos da Loja",
+        "descricao": "Novos produtos da loja",
+        "preco": 0.26000000000000006,
+        "imagem_url": "https://stgdevdio001.blob.core.windows.net/fotos/24d18d3c-24ad-41b2-8809-e6e3bc24da72.jpg"
+    },
+    {
+        "nome": "Mala de Bordo ABS",
+        "descricao": "Mala de Bordo ABS 4 Rodas Adventure Fortt Preto - MAB01-PT",
+        "preco": 149.0,
+        "imagem_url": "https://stgdevdio001.blob.core.windows.net/fotos/05d4b90e-5b9f-429c-a46b-a4924b219b84.jpg"
+    }
+]
