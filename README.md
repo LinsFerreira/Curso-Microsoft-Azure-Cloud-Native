@@ -56,6 +56,8 @@ Aqui está um diagrama visual que mostra como os principais conceitos do Azure C
 
 O GitHub Copilot é um assistente de codificação de IA que ajuda você a escrever código mais rápido e com menos esforço, permitindo que você concentre mais energia na resolução de problemas e na colaboração.
 
+![image](https://github.com/user-attachments/assets/878dee51-19d1-465e-80a4-42f3197cc5fb)
+
 Foi comprovado que o GitHub Copilot aumenta a produtividade dos desenvolvedores e acelera o ritmo de desenvolvimento de software.
 
 **Recursos do Copilot**
@@ -78,3 +80,49 @@ O copiloto está disponível:
 * Na linha de comando, por meio do GitHub CLI
 * No site do GitHub
 
+**Recursos principais do GitHub Copilot:**
+
+O GitHub Copilot oferece uma série de recursos que auxiliam os desenvolvedores na escrita de código, incluindo sugestões de código em tempo real, geração de testes, explicação de código, correções de código, e integração com chat e agentes de IA. Além disso, o Copilot também oferece recursos de extensão, personalização e integração com outras ferramentas. 
+
+![image](https://github.com/user-attachments/assets/9da947d8-674d-4865-864c-c359ab9d9f4f)
+
+**Sugestões de código:**
+O Copilot sugere código automaticamente à medida que você digita, baseando-se no contexto do código que você está escrevendo. 
+
+**Geração de testes:**
+O Copilot pode gerar testes de unidade, de integração e funcionais para você, ajudando a garantir a qualidade do seu código. 
+
+**Explicação de código:**
+Você pode perguntar ao Copilot para explicar o código que você escreveu, o que pode ser útil para entender como ele funciona e para identificar possíveis problemas. 
+
+**Correção de código:**
+O Copilot pode sugerir correções para erros e bugs no seu código. 
+
+**Copilot Chat:**
+O Copilot Chat permite que você converse com o Copilot para tirar dúvidas, solicitar ajuda ou gerar código. 
+
+**Agentes de IA:**
+O Copilot pode ser usado como agente de IA para automatizar tarefas de desenvolvimento, como a criação de código, a geração de testes ou a análise de código. 
+
+**Extensões:**
+Você pode adicionar extensões ao Copilot para adicionar funcionalidades extras, como integração com outras ferramentas ou serviços. 
+
+**Personalização:**
+O Copilot pode ser personalizado para que ele seja mais adequado ao seu estilo de desenvolvimento e às suas necessidades específicas. 
+
+**Integração com outras ferramentas:**
+O Copilot pode ser integrado com outras ferramentas de desenvolvimento, como Visual Studio Code e Visual Studio. 
+
+**Benefícios do uso do GitHub Copilot:**
+
+**Aumento da produtividade:**
+O Copilot pode ajudar a acelerar o desenvolvimento, reduzindo o tempo gasto na escrita de código e na depuração. 
+
+**Melhora da qualidade do código:**
+O Copilot pode ajudar a identificar erros e bugs no código, o que pode ajudar a garantir que o código seja de alta qualidade. 
+
+**Aprendizagem:**
+O Copilot pode ser usado para aprender novas linguagens de programação e para entender como outras pessoas escrevem código. 
+
+**Economia:**
+O Copilot pode ajudar a reduzir os custos de desenvolvimento, reduzindo o tempo gasto na escrita de código e na depuração.
